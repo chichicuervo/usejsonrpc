@@ -13,5 +13,8 @@
     "react": "^16.13.1",
     "simple-peer": "^9.7.2",
     "ws": "^7.3.0"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
   }
 }
